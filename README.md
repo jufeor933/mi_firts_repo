@@ -14,14 +14,16 @@ this is a change on my README
 En la Escuela de JavaScript de Platzi aprenderás todo lo necesario para ir
 de cero a rockstar.
 
-** Negrilla **
-* Italica*
+**Negrilla**
+*Italica*
 **_italica mas negrilla _**
 
 
 > esto es una cita
+
 > esto es otra
 > esto es otra
+
 
 1. items
 2. items
@@ -30,10 +32,12 @@ de cero a rockstar.
 - item
 - item
 - item
+
     var name = 'escuela de javascript
     console.log(name)
 
 `var name = 'Escuela de Javascript'`
+
 `console.log(name)`
 
 
